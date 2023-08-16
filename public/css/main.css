@@ -59,6 +59,7 @@ div {
     margin-top: 120px;
     margin-bottom: 120px;
 }
-.bg-grey {
-    background-color: rgb(45, 45, 45);
+.bg-img6 {
+    background-image: url(../img/img6.png);
+    height: 450px;
 }
