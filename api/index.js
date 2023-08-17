@@ -17,5 +17,5 @@ app.get("/", (req, res) => {
 const port = process.env.PORT || 4040
 app.listen(port, () => {
     console.log(`App rodando em http://localhost:${port}`)
-    require("./config/db");
+    require("../config/db");
 });
